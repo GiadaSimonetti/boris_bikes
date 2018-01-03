@@ -1,4 +1,5 @@
-# In spec/docking_station_spec.rb
+require 'docking_station'
+
 describe DockingStation do
 
 end
