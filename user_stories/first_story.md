@@ -14,9 +14,9 @@ verbs: release, working.
 
 Objects (Nouns)  | Messages (Verbs)
 ------------- | -------------
-person |
-bike | working
-docking station | release bike
+Person |
+Bike | working?
+DockingStation | release_bike
 
 bike > working? > True/False
 docking station > release bike > bike
