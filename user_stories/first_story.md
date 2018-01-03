@@ -1,3 +1,4 @@
+```
 As a person,
 So that I can use a bike,
 I'd like a docking station to release a bike.
@@ -5,15 +6,17 @@ I'd like a docking station to release a bike.
 As a person,
 So that I can use a good bike,
 I'd like to see if a bike is working
+```
 
-nouns: person, I, bike, docking station.
+nouns: person, bike, docking station.
 
-verbs: use, like, release, see, work.
+verbs: release, working.
 
 Objects (Nouns)  | Messages (Verbs)
 ------------- | -------------
-person | use
-I | like
-bike | release
-docking station | see
-| work
+person |
+bike | working
+docking station | release bike
+
+bike > working? > True/False
+docking station > release bike > bike
